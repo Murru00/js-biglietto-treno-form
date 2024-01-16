@@ -1,0 +1,29 @@
+body {
+   background-image: url(https://euhkb3nhdo3.exactdn.com/wp-content/uploads/2017/02/Frecciarossa_8-e1520339721353-1200x545_c.jpg?lossy=1&ssl=1);
+   background-size: cover;
+   background-repeat: no-repeat;
+   
+}
+
+.container{
+    background-color: white;
+    border-radius: 20px;
+    
+}
+
+.labelform {
+    color: green;
+    font-weight: bold;
+
+}
+
+#PrintButton,
+#DeleteButton {
+    color:green;
+    background-color: #b7b7b7a1;
+    border: 2px solid #6c6c6c;
+}
+
+h2{
+    color: green;
+}
